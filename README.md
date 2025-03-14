@@ -7,6 +7,8 @@ Fetches 50 videos from the YouTube API <br>
 Search bar with real-time suggestions <br>
 Sidebar navigation <br>
 Simple and clean UI <br>
+Comment section <br>
+Live chat <br>
 
 # Tech Stack
 React.js <br>
